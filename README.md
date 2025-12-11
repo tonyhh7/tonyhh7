@@ -1,27 +1,101 @@
-# 👋 Hi, I'm Jose Antonio Hernandez Herrera!  
 
-![GitHub followers](https://img.shields.io/github/followers/tonyhh7?style=social)
-![GitHub stars](https://img.shields.io/github/stars/tonyhh7?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=tonyhh7&label=Profile%20Views&color=blue)
+### 👋 ¡Hola! Soy José Antonio Hernández  
+### **Analista de Datos | SQL · Python · Tableau · Power BI**
 
-## 🚀 Data Analyst | SQL | Python | Tableau | A/B Testing  
+Transformo datos en decisiones.  
+Me especializo en análisis estadístico, optimización de procesos, diseño de métricas y visualización clara para negocios digitales y operaciones.  
+He trabajado con bases de datos reales, pruebas A/B, modelos predictivos y análisis de churn.
 
-I specialize in **data analysis, financial insights, and business optimization**. Passionate about transforming raw data into strategic decisions.
+---
 
-### 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 Sobre mí
+- 🎯 Analista de Datos con enfoque en **optimización y toma de decisiones estratégica**.  
+- 🧠 Experiencia en **SQL**, **Python**, **estadística inferencial**, **machine learning básico** y visualizaciones en **Tableau y Power BI**.  
+- 🏛️ Experiencia administrativa y manejo de bases de datos en gobierno y sector privado.  
+- 📊 Capaz de convertir datasets complejos en insights accionables y recomendaciones de negocio.  
+- 🌎 Buscando oportunidades remotas como **Data Analyst / Business Analyst Jr**.
 
-### 📌 Featured Projects:
-📊 **[Sprint 9 - Financial Data Analysis](https://github.com/tonyhh7/Proyecto-del-Sprint-9)**  
-📈 **[Sprint 10 - Hypothesis Testing (ICE & RICE)](https://github.com/tonyhh7/Proyecto-del-Sprint-10)**  
-📉 **[Sprint 11 - A/B Testing for E-commerce](https://github.com/tonyhh7/Proyecto-del-Sprint-11)**  
-📡 **[Sprint 13 - Customer Churn Prediction](https://github.com/tonyhh7/Proyecto-del-Sprint-13)**  
+---
 
-### 🌍 Let's Connect!
-📫 **Email:** jantonioh2001@gmail.com  
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-antonio-hernandez-herrera/)  
-🚀 **Explore my work:** [GitHub Repositories](https://github.com/tonyhh7)  
+## 🛠️ Tecnologías y Herramientas
+**Lenguajes y análisis:**  
+- SQL  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn)  
+- Estadística descriptiva e inferencial  
+- Pruebas A/B, regresiones, clustering básico  
+
+**Visualización:**  
+- Tableau  
+- Power BI  
+
+**Herramientas de productividad:**  
+- Excel avanzado  
+- Google Sheets  
+- PowerPoint, Word  
+
+---
+
+## 📁 Proyectos Destacados
+
+### 🔹 1. Identificación de Operadores Ineficientes (Telecom)
+**Tecnologías:** Python, Pandas, Seaborn, Statsmodels  
+**Descripción:**  
+Análisis de desempeño de operadores en un call center virtual.  
+Evalué tiempos de espera, llamadas salientes y llamadas perdidas para detectar ineficiencias.  
+**Resultados:**  
+- Identifiqué patrones de bajo rendimiento.  
+- Apliqué pruebas estadísticas para validar hipótesis.  
+📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-14
+
+---
+
+### 🔹 2. Predicción de Pérdida de Clientes en Gimnasios (Churn)
+**Tecnologías:** Python, Scikit-learn, Random Forest, Regresión Logística  
+**Descripción:**  
+Modelo predictivo para anticipar cancelaciones de membresía.  
+**Resultados:**  
+- Precisión del **80%**.  
+- Identificación de variables clave para retención.  
+📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-13
+
+---
+
+### 🔹 3. Prueba A/A/B y Optimización del Embudo de Ventas
+**Tecnologías:** Python, Pandas, Scipy, Estadística  
+**Descripción:**  
+Evaluación de impacto de un rediseño en tienda online mediante prueba A/A/B.  
+**Resultados:**  
+- No hubo cambios estadísticamente significativos.  
+- Se evitó una mala implementación con costo operacional.  
+📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-11
+
+---
+
+### 🔹 4. Análisis de Rentabilidad por Canal de Adquisición Digital
+**Tecnologías:** SQL, Python  
+**Descripción:**  
+Medición del ROI de distintos canales de marketing.  
+**Resultados:**  
+- Identifiqué el canal con mayor rendimiento (20% más ingresos por visitante).  
+- Recomendaciones para optimizar presupuesto.  
+📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-9
+
+---
+
+### 🔹 5. Priorización ICE/RICE para E-commerce
+**Tecnologías:** Python, Pandas, Numpy  
+**Descripción:**  
+Evaluación y priorización de estrategias de crecimiento.  
+**Resultados:**  
+- Recomendé implementar un sistema de suscripción y optimizar tráfico.  
+📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-10
+
+---
+
+## 📈 Estadísticas de GitHub (opcional)
+> Puedes agregar esto si quieres un toque visual profesional.
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyhh7&show_icons=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhh7&layout=compact&theme=midnight-purple)
+
