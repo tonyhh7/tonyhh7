@@ -89,3 +89,8 @@ Evaluación y priorización de estrategias de crecimiento.
 **Resultados:**  
 - Recomendé implementar un sistema de suscripción y optimizar tráfico.  
 📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-10
+
+## 📬 Contacto
+📧 jantonioh2001@gmail.com  
+🌐 LinkedIn: https://www.linkedin.com/in/jose-antonio-hernandez-herrera-b35787352  
+📍 Aguascalientes, México
