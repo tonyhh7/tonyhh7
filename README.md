@@ -93,9 +93,7 @@ Evaluación y priorización de estrategias de crecimiento.
 ---
 
 ## 📈 Estadísticas de GitHub (opcional)
-> Puedes agregar esto si quieres un toque visual profesional.
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyhh7&show_icons=true&theme=midnight-purple)
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyhh7&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhh7&layout=compact&theme=midnight-purple)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhh7&layout=compact&theme=midnight-purple)
 
