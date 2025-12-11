@@ -89,11 +89,3 @@ Evaluación y priorización de estrategias de crecimiento.
 **Resultados:**  
 - Recomendé implementar un sistema de suscripción y optimizar tráfico.  
 📎 **Repositorio:** https://github.com/tonyhh7/Proyecto-del-Sprint-10
-
----
-
-## 📈 Estadísticas de GitHub (opcional)
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyhh7&show_icons=true&theme=midnight-purple)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhh7&layout=compact&theme=midnight-purple)
-
